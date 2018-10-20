@@ -1,0 +1,3 @@
+[submodule "PearsonEbookDownloader"]
+	path = PearsonEbookDownloader
+	url = git@github.com:NoMod-Programming/PearsonEbookDownloader.git
